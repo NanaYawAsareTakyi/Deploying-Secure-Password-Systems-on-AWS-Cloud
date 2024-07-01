@@ -240,3 +240,7 @@ This is illustrated below:
 And that’s it! I successfully created a password manager hosted on an AWS EC2 instance, configured with SSL encryption for secure data transmission and enhanced account security features like multi-factor authentication.
 
 ![image](https://github.com/NanaYawAsareTakyi/Deploying-Secure-Password-Systems-on-AWS-Cloud/assets/173400465/b45c7d27-1ebc-4f98-a805-3145e3d3940c)
+
+
+## Summary
+In this project, Passbolt was hosted on AWS Cloud to securely manage passwords with high availability, reliability, and scalability. HTTPS encryption ensured secure data transmission, while domain hosting was configured for consistent access. The implementation included features for securely storing complex passwords, enhancing both data protection and user convenience, demonstrating a robust approach to modern password management using cloud infrastructure and advanced security practices.
